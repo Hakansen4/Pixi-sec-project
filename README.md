@@ -1,18 +1,4 @@
-# Welcome to Playable Factory 🚀
+![image](https://github.com/Hakansen4/Pixi-sec-project/assets/62704352/db1e3371-daa1-4933-a113-270309d74c3f)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
-
-### 🛠 Installation and Setup
-
-#### 1. **Install Packages**
-npm install
-#### 2. **Run the Project**
-npm start
-#### 3. **Build the Project**
-npm run build
 
 
